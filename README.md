@@ -69,11 +69,13 @@ A progressive web app and mobile app for students preparing for the Loksewa exam
 ### [HamroMenu](https://github.com/jeevankoiri10/HamroMenu)
 A utility Android app that allows users to search for menus around specified locations on the map.
 
+<!--
 ## 📈 GitHub Stats
 
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevankoiri10&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevankoiri10&layout=compact&theme=radical)
+-->
 
 ## 🤝 Let's Connect
 
