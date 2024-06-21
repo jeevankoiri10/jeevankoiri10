@@ -80,6 +80,7 @@ A utility Android app that allows users to search for menus around specified loc
 
 ### AWS Academy Graduate - Data Engineering
 - **Certification**: [View Certificate](https://www.credly.com/badges/6253f3ca-4bb5-420f-a84c-6bfc100027c6/linked_in_profile)
+### Harvard University - CS50 Introduction to Computer Science (edX)
 - **Certification**: [View Certificate](https://courses.edx.org/certificates/777c561a64ad441d8f57eb21c3fb129b)
 
 
