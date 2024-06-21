@@ -76,6 +76,13 @@ A utility Android app that allows users to search for menus around specified loc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevankoiri10&layout=compact&theme=radical)
 -->
+## Certifications
+
+### AWS Academy Graduate - Data Engineering
+- **Certification**: [View Certificate](https://www.credly.com/badges/6253f3ca-4bb5-420f-a84c-6bfc100027c6/linked_in_profile)
+- **Certification**: [View Certificate](https://courses.edx.org/certificates/777c561a64ad441d8f57eb21c3fb129b)
+
+
 
 ## 🤝 Let's Connect
 
