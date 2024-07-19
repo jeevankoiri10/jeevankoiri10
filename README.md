@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevankoiri10&color=brightgreen)
 
-I'm a dedicated and experienced software engineer from Lalitpur, Nepal, with over 2 years of hands-on experience in developing and implementing complex software solutions. My expertise lies in mobile app development using Flutter and various backend technologies. I am passionate about creating impactful applications that solve real-world problems.
+I'm a dedicated and experienced software engineer from Lalitpur, Nepal, with over 2 years of hands-on experience in developing and implementing complex software solutions. My expertise lies in mobile app development using Flutter and backend technology like django. I am passionate about creating impactful applications that solve real-world problems.
 
 ## 🌟 About Me
 
