@@ -6,10 +6,10 @@ I'm a dedicated and experienced software engineer from Lalitpur, Nepal, with ove
 
 ## 🌟 About Me
 
-- 🔭 Currently working on exciting projects that leverage Flutter, Dart, and Firebase.
+- 🔭 Currently working on exciting projects that leverage Flutter, Dart, django and Firebase.
 - 🌱 Always learning and exploring new technologies to stay ahead of the curve.
 - 🤝 Collaborating with cross-functional teams to deliver high-quality products.
-- 💬 Ask me about Flutter, Firebase, Python, and mobile app development.
+- 💬 Ask me about Flutter, Firebase, Python, django and mobile app development.
 - 📫 How to reach me: [jeevankoirima@gmail.com](mailto:jeevankoirima@gmail.com)
 - 🌐 Visit my website: [jeevankoiri.com.np](http://www.jeevankoiri.com.np)
 
