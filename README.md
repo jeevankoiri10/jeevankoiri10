@@ -5,13 +5,17 @@
 ## 🌟 About Me
 
 - 🔭 Currently working on exciting projects that leverage Flutter, Dart, django and Firebase.
-- 🌱 Always learning and exploring new technologies to stay ahead of the curve.
+- 🌱 Always learning deeper and Attention to detail 
 - 🤝 Collaborating with cross-functional teams to deliver high-quality products.
 - 💬 Ask me about Flutter, Firebase, Python, django and mobile app development.
 - 📫 How to reach me: [jeevankoirima@gmail.com](mailto:jeevankoirima@gmail.com)
 - 🌐 Visit my website: [jeevankoiri.com.np](http://www.jeevankoiri.com.np)
 
 ## 🚀 Skills
+- Mobile application development
+- Programming
+- AI/ML
+- AWS
 
 ### Languages
 - Dart
@@ -21,20 +25,20 @@
 - C++
 
 ### Frameworks & Libraries
-- Flutter
-- Android
-- React
-- Django
+- Flutter: Android and IOS App development, Frontend, Firebase Authentication, firebase_notification, firestore databases, fvm, nylo, bloc, provider
+- Django: Backend Development
+- Machine Learning, Deep Learning: Tensorflow, pytorch
+- AWS Data Engineering
 
 ### Databases
 - Firebase
-- MySQL
 - MongoDB
+- MySQL
 
 ### Tools & Methodologies
 - Git
-- Docker
 - REST API
+- Docker
 - JWT
 - Agile/Scrum
 - Data Structures and Algorithms
@@ -45,7 +49,7 @@
 - Research & Detail-Oriented
 - Problem Solving, Teamwork, and Creativity
 - Adaptability & Versatility
-- Multilingual Communication (Fluent in Nepali, English, Hindi, and Bhojpuri)
+- Multilingual Communication (Fluent in Nepali, English, Hindi, and Awadhi)
 
 ## 🌐 Online Presence
 
@@ -56,16 +60,16 @@
 ## 🛠 Projects
 
 ### [CTEVT Plus](https://play.google.com/store/apps/details?id=com.one.ctevt_plus)
-An educational app with over 1K+ downloads and a 5-star rating, designed to help CTEVT diploma students access their syllabus, notes, and question papers. Developed using Flutter and Firebase.
-
-### [ShareBazzar Alerts and Portfolio](#)
-A fintech app that alerts users about stock prices. Developed using Flutter and Go, it features local notifications, websockets, and server integration.
+An educational app with over 5K+ downloads and a 5-star rating, designed to help CTEVT diploma students access their syllabus, notes, and question papers. Developed using Flutter and Firebase.
 
 ### [Agriculture Loksewa](https://agricultureloksewa-b109c.web.app/)
 A progressive web app and mobile app for students preparing for the Loksewa exam, offering notes and past questions. Features include Firebase Firestore integration and a dynamic light/dark mode.
 
 ### [HamroMenu](https://github.com/jeevankoiri10/HamroMenu)
 A utility Android app that allows users to search for menus around specified locations on the map.
+
+### [ShareBazzar Alerts and Portfolio](#)
+A fintech app that alerts users about stock prices. Developed using Flutter and Go, it features local notifications, websockets, and server integration.
 
 <!--
 ## 📈 GitHub Stats
@@ -76,9 +80,11 @@ A utility Android app that allows users to search for menus around specified loc
 -->
 ## Certifications
 
-### AWS Academy Graduate - Data Engineering
+### Samsung Artificial Intelligence Certification
+- **Certification**: [View Certificate](https://www.linkedin.com/in/jeevankoiri/overlay/1718942288355/single-media-viewer/?profileId=ACoAADICKe0B95ithqNSb2pZ8f1eqySiHAwwljQ )
+### AWS Academy Graduate - Data Engineering Certification
 - **Certification**: [View Certificate](https://www.credly.com/badges/6253f3ca-4bb5-420f-a84c-6bfc100027c6/linked_in_profile)
-### Harvard University - CS50 Introduction to Computer Science (edX)
+### Harvard University - CS50 Introduction to Computer Science (edX) Certification
 - **Certification**: [View Certificate](https://courses.edx.org/certificates/777c561a64ad441d8f57eb21c3fb129b)
 
 
