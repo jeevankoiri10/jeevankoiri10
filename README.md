@@ -7,30 +7,33 @@
 - 🔭 Currently working on exciting projects that leverage Flutter, Dart, django and Firebase.
 - 🌱 Always learning deeper and Attention to detail 
 - 🤝 Collaborating with cross-functional teams to deliver high-quality products.
-- 💬 Ask me about Flutter, Firebase, Python, django and mobile app development.
+- 💬 Ask me about AI, ML, DL, Python, Statistics, Flutter, Firebase, django and mobile app development.
 - 📫 How to reach me: [jeevankoirima@gmail.com](mailto:jeevankoirima@gmail.com)
 - 🌐 Visit my website: [jeevankoiri.com.np](http://www.jeevankoiri.com.np)
 
 ## 🚀 Skills
+- AI/ML
 - Mobile application development
 - Programming
-- AI/ML
 - AWS
 
 ### Languages
-- Dart
 - Python
-- HTML/CSS
+- HTML/CSS/JS
+- Dart
 - JavaScript
 - C++
 
-### Frameworks & Libraries
-- Flutter: Android and IOS App development, Frontend, Firebase Authentication, firebase_notification, firestore databases, fvm, nylo, bloc, provider
-- Django: Backend Development
-- Machine Learning, Deep Learning: Tensorflow, pytorch
-- AWS Data Engineering
+Frameworks & Libraries
+PyTorch: ML and DL model development, including real-world projects like human detection with YOLO and automatic slide generation.
+TensorFlow: Deep learning workflows, from model training to deployment, used in AI-powered app features.
+Flutter: Cross-platform Android & iOS app development using Firebase Authentication, Firestore, firebase_notification, Nylo, FVM. Experience with state management tools like BLoC and Provider.
+Django: Backend development with REST APIs, admin dashboards, and ML model integration for full-stack apps.
+Firebase: Realtime databases, authentication, and push notifications in production apps.
+AWS Data Engineering: Experience with AWS tools and workflows for ML model deployment, data storage, and scalable processing pipelines.
 
 ### Databases
+- PostgreSQL
 - Firebase
 - MongoDB
 - MySQL
@@ -49,7 +52,7 @@
 - Research & Detail-Oriented
 - Problem Solving, Teamwork, and Creativity
 - Adaptability & Versatility
-- Multilingual Communication (Fluent in Nepali, English, Hindi, and Awadhi)
+- Multilingual Communication (Fluent in English, Hindi, Awadhi, and Nepali)
 
 ## 🌐 Online Presence
 
@@ -58,6 +61,12 @@
 - [Personal Website](http://www.jeevankoiri.com.np)
 
 ## 🛠 Projects
+
+### [Automatic Power point generation using BERT Transformer Model.]
+Automatic Power point generation using BERT Transformer Model.
+
+### [Detection and Locating of Humans using thermal infrared images and YOLO]
+YOLO-based defect detection experience using thermal imaging
 
 ### [CTEVT Plus](https://play.google.com/store/apps/details?id=com.one.ctevt_plus)
 An educational app with over 5K+ downloads and a 5-star rating, designed to help CTEVT diploma students access their syllabus, notes, and question papers. Developed using Flutter and Firebase.
