@@ -7,11 +7,14 @@
 
 ---
 
-## 🌟 About Me
+## About Me
+I build mobile-first products that ship under real constraints—low-end devices, limited connectivity, and non-technical users. Most of my work sits at the intersection of Flutter-based mobile apps, lightweight backends, and applied AI, with a focus on education, public-sector tools, and early-stage products where speed and maintainability matter more than theoretical perfection.
 
-I'm a mobile-first developer passionate about building cross-platform applications that solve real-world problems. With a strong foundation in AI/ML and full-stack development, I create data-informed products that users love.
+## How I Build
+I start by writing the problem down to remove ambiguity, research existing approaches and tradeoffs, and then design the smallest version that can work in production. I prefer shipping early, observing real usage, and iterating, rather than over-designing systems upfront. Tool choices are driven by operational simplicity, not trend-following.
 
-- 🚀 **Mobile Development**: Specialized in Flutter with 2 published apps and 5K+ active users
+
+- 🚀 **Mobile Development**: Specialized in Flutter with 2 published apps and 5K+ downloads
 - 🔧 **Full-Stack Expertise**: Building end-to-end solutions with Flutter, Node.js, React, and Django
 - 🤖 **AI Integration**: Implementing ML models in production apps using PyTorch and TensorFlow
 - 📊 **Data-Driven**: Leveraging analytics and user insights to build better products
@@ -22,35 +25,19 @@ I'm a mobile-first developer passionate about building cross-platform applicatio
 
 ---
 
-## 🛠️ Tech Stack
+<img
+  src="https://camo.githubusercontent.com/0b418310b7f032d0600861ec0cfb9ff5d5ad8df0028f4bfecf49a52942a45ba9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b625262346579434e4330614d7a357836382f67697068792e676966"
+  alt="Coding Geek gif"
+  width="400"
+/>
 
-### Mobile Development (Primary Focus)
-- **Flutter & Dart** - Cross-platform Android & iOS development
-  - State Management: BLoC, Provider
-  - Tools: FVM, Nylo framework
-  - 5K+ downloads across published apps
-- **Firebase Suite** - Authentication, Firestore, Cloud Functions, Push Notifications
-- **REST APIs** - Integration and development
-
-### Full-Stack Development
-- **Backend**: Node.js, Django, Express
-- **Frontend**: React, HTML/CSS/JavaScript
-- **Databases**: PostgreSQL, MongoDB, MySQL, Firebase Realtime DB
-- **Cloud**: AWS (Data Engineering), Firebase, Docker
-
-### AI/ML Frameworks
-- **Core Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib
-- **Deep Learning**: PyTorch, TensorFlow
-- **Specialization**: Computer Vision (YOLO), NLP (BERT), Model Deployment
-- **Analytics**: Power BI (Advanced)
-
-### Programming Languages
-```
-Python  ████████████████████░  95% - AI/ML & Backend
-Dart    ████████████████████░  95% - Flutter Development
-JavaScript ████████████████░░  80% - Full-Stack Web
-C++     ████████████░░░░░░░░  60% - Algorithms & DSA
-```
+## Tech Stack
+**Mobile:** Flutter (BLoC, Provider), Firebase  
+**Backend:** Node.js,Express , Django  
+**Frontend:** React, HTML/CSS/JS  
+**AI/ML:** PyTorch, YOLO, Transformers, OpenCV  
+**Data:** MongoDB, Power BI  
+**Infra:** Docker, Firebase, AWS (basic data pipelines)
 
 ### Tools & Practices
 - **Version Control**: Git, GitHub
@@ -65,12 +52,13 @@ C++     ████████████░░░░░░░░  60% - Algo
 
 ### 📱 [CTEVT Plus](https://play.google.com/store/apps/details?id=com.one.ctevt_plus)
 **Educational Mobile App | 5K+ Downloads | 5-Star Rating**
+**Key Decision:** Used Firebase instead of a custom backend to minimize operational overhead and allow rapid content updates by non-technical admins.
 - Built with Flutter and Firebase for CTEVT diploma students
 - Features: Offline syllabus access, notes repository, past question papers
 - Implemented Firebase Authentication, Firestore, and Cloud Messaging
 - Optimized performance for low-end devices
 
-**Tech Stack**: Flutter, Dart, Firebase, BLoC
+**Tech Stack**: Flutter, Dart, Firebase, Firestore
 
 ---
 
@@ -87,12 +75,13 @@ C++     ████████████░░░░░░░░  60% - Algo
 
 ### 🤖 Automatic PowerPoint Generation using BERT
 **AI-Powered Presentation Generator**
+**Key Decision:** Focused on summarization quality over visual polish, as content clarity mattered more than slide aesthetics for target users.
 - Leveraged BERT Transformer model for content summarization
 - Automated slide generation with intelligent layout design
 - Integrated Python backend with Flutter frontend
 - Reduced presentation creation time by 70%
 
-**Tech Stack**: Python, PyTorch, BERT, Flutter, Django
+**Tech Stack**: Django, scikit learn, Pegasus Transformer model
 
 ---
 
@@ -103,7 +92,7 @@ C++     ████████████░░░░░░░░  60% - Algo
 - Optimized model for edge device deployment
 - Achieved 92% detection accuracy
 
-**Tech Stack**: Python, TensorFlow, YOLO, OpenCV
+**Tech Stack**: Pytorch, Python, YOLO, OpenCV, Flutter, Thermal Camera Hardware Combination
 
 ---
 
@@ -148,24 +137,6 @@ C++     ████████████░░░░░░░░  60% - Algo
 </tr>
 </table>
 
----
-
-## 💼 Professional Strengths
-
-### Technical Skills
-- **Mobile-First Development**: Building intuitive, performant cross-platform apps
-- **Full-Stack Architecture**: Designing scalable backend systems and APIs
-- **AI/ML Integration**: Deploying machine learning models in production
-- **Database Design**: Optimizing queries and data structures for performance
-
-### Soft Skills
-- **Leadership & Collaboration**: Successfully leading cross-functional teams
-- **Problem-Solving**: Breaking down complex problems into actionable solutions
-- **Continuous Learning**: Staying updated with latest tech trends and best practices
-- **Adaptability**: Quick learner, comfortable with diverse tech stacks
-- **Communication**: Fluent in English, Hindi, Awadhi, and Nepali
-
----
 
 ## 📊 GitHub Stats
 
@@ -181,12 +152,11 @@ C++     ████████████░░░░░░░░  60% - Algo
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always open to discussing:
-- 📱 Mobile app development opportunities
-- 🤖 AI/ML integration in mobile apps
-- 🚀 Full-stack project collaborations
-- 💡 Tech innovation and product ideas
-- 🎓 Mentorship and knowledge sharing
+## What I’m Open To
+- Mobile and full-stack roles with real product ownership
+- AI/ML integration in production systems
+- Early-stage startups where speed and responsibility matter
+- Mentorship and tech discussion
 
 **Find me on:**
 
@@ -196,12 +166,3 @@ I'm always open to discussing:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevankoirima@gmail.com)
 
 ---
-
-<div align="center">
-  
-### ⭐ Fun Fact
-*I believe great apps are born from understanding user needs deeply and iterating with data-driven insights!*
-
-**💡 Open to freelance projects and full-time opportunities**
-
-</div>
