@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevankoiri10&color=brightgreen)
 
 ## Mobile & Full-Stack Developer | Flutter & AI Engineer
-**Shipped 2 Apps (5K+ Downloads) | 1K+ Subs @ KTM Academy | Data-Informed Product Builder**
+**Shipped 3 Apps (5K+ Downloads) | 1K+ Subs @ KTM Academy | Data-Informed Product Builder**
 
 ---
 
