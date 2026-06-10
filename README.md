@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I build mobile-first products that ship under real constraints—low-end devices, limited connectivity, and non-technical users. Most of my work sits at the intersection of Flutter-based mobile apps, lightweight backends, and applied AI, with a focus on education, public-sector tools, and early-stage products where speed and maintainability matter more than theoretical perfection.
+I build mobile-first products that ship under real constraints—low-end devices, limited connectivity, and non-technical users. Most of my work sits at the intersection of Flutter-based mobile apps, lightweight backends, and applied AI, with a focus on education, public-sector tools, and early-stage products where speed and maintainability matter more than theoretical perfection. [Portfolio](https://jeevankoiri.com.np)
 
 ## How I Build
 I start by writing the problem down to remove ambiguity, research existing approaches and tradeoffs, and then design the smallest version that can work in production. I prefer shipping early, observing real usage, and iterating, rather than over-designing systems upfront. Tool choices are driven by operational simplicity, not trend-following.
