@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevankoiri10&color=brightgreen)
 
 ## Full-Stack Developer
-**Shipped 3 Apps (5K+ Downloads) | 1K+ Subs @ KTM Academy | Data-Informed Product Builder**
 
 ---
 
@@ -11,15 +10,12 @@
 I build mobile-first products that ship under real constraints—low-end devices, limited connectivity, and non-technical users. Most of my work sits at the intersection of Flutter-based mobile apps, lightweight backends, and applied AI, with a focus on education, public-sector tools, and early-stage products where speed and maintainability matter more than theoretical perfection. [Portfolio](https://jeevankoiri.com.np)
 
 ## How I Build
-I start by writing the problem down to remove ambiguity, research existing approaches and tradeoffs, and then design the smallest version that can work in production. I prefer shipping early, observing real usage, and iterating, rather than over-designing systems upfront. Tool choices are driven by operational simplicity, not trend-following.
+I start by writing the problem down to remove ambiguity, research existing approaches and tradeoffs, and then design the smallest version that can work in production. I prefer shipping early, observing real usage, and iterating, rather than over-designing systems upfront. Tool choices are driven by problem solving, not trend-following.
 
 
-- 🚀 **Mobile Development**: Specialized in Flutter with 2 published apps and 5K+ downloads
-- 🔧 **Full-Stack Expertise**: Building end-to-end solutions with Flutter, Typescript, React, and Django
-- 🤖 **AI Integration**: Implementing ML models in production apps using PyTorch and TensorFlow
-- 📊 **Data-Driven**: Leveraging analytics and user insights to build better products
-- 🎓 **Community Builder**: Running KTM Academy with 1K+ subscribers, sharing tech knowledge
-- 💬 **Let's Talk**: Mobile development, Flutter, Firebase, AI/ML, Python, Django, and scalable architectures
+- 🚀 **Mobile Development**: Specialized in Flutter, Typescript, Django with 5+ published apps and 10K+ downloads
+- 🤖 **AI Integration**: Integrating ML models in production apps using PyTorch, Hugging Face
+- 📊 **Data-Driven**: Leveraging analytics (Mix panel, posthog, firebase analytics) and user insights to build better products
 - 📫 **Reach me**: [jeevankoirima@gmail.com](mailto:jeevankoirima@gmail.com)
 - 🌐 **Portfolio**: [jeevankoiri.com.np](http://www.jeevankoiri.com.np)
 
@@ -32,89 +28,72 @@ I start by writing the problem down to remove ambiguity, research existing appro
 />
 
 ## Tech Stack
-**Mobile:** Flutter (BLoC, Provider), Firebase  
-**Backend:** Node.js, Express, Typescript, Django  
-**Frontend:** React, NextJS, Shadcn, HTML/CSS/JS  
-**AI/ML:** PyTorch, YOLO, Transformers, OpenCV  
-**Data:** MongoDB, Power BI  
-**Infra:** Docker, Firebase, AWS (basic data pipelines)
+**Mobile:** Flutter (BLoC, Provider, Riverpod, feature based clean architecture), Firebase, Supabase  
+**Backend:** Django, Node.js, Express, Typescript 
+**Frontend:** React, NextJS, Shadcn, HTML/CSS/JS 
+**AI/ML:** PyTorch, YOLO, Transformers, OpenCV
+**Data:** MongoDB, Power BI
+**Infra:** Firebase, AWS (basic data pipelines)
 
 ### Tools & Practices
 - **Version Control**: Git, GitHub
-- **DevOps**: Docker, CI/CD pipelines
+- **DevOps**: Vercel, CI/CD pipelines
 - **Methodologies**: Agile/Scrum, Test-Driven Development
 - **API Development**: REST, JWT Authentication
-- **Data Structures & Algorithms**: Strong foundation
 
 ---
 
-## 🚀 Featured Projects
+## 📱 Apps & Websites
 
-### 📱 [CTEVT Plus](https://play.google.com/store/apps/details?id=com.one.ctevt_plus)
-**Educational Mobile App | 5K+ Downloads | 5-Star Rating**
-**Key Decision:** Used Firebase instead of a custom backend to minimize operational overhead and allow rapid content updates by non-technical admins.
-- Built with Flutter and Firebase for CTEVT diploma students
-- Features: Offline syllabus access, notes repository, past question papers
-- Implemented Firebase Authentication, Firestore, and Cloud Messaging
-- Optimized performance for low-end devices
+### Play Store
 
-**Tech Stack**: Flutter, Dart, Firebase, Firestore
+- **[CTEVT Plus](https://play.google.com/store/apps/details?id=com.one.ctevt_plus)** — EdTech mobile app for CTEVT students with learning resources, syllabus, notes, and past questions; **10K+ downloads**.  
+  **Tech:** Flutter, Dart, Firebase, Firestore, Firebase Cloud Messaging
 
----
+- **[EDLVRS Driving License App](https://play.google.com/store/apps/details?id=com.drivinglicenselikhit.app)** — Multilingual driving-license preparation app for exam study and practice.  
+  **Tech:** Flutter, Dart, Firebase
 
-### 🌾 [Agriculture Loksewa](https://agricultureloksewa-b109c.web.app/)
-**Progressive Web App + Mobile App**
-- Comprehensive exam preparation platform for Loksewa aspirants
-- Features: Dynamic light/dark mode, offline support, real-time updates
-- Firebase Firestore integration with optimized queries
-- Responsive design across web and mobile
+- **[Unfetter App: Porn & Reels Blocker](https://play.google.com/store/apps/details?id=com.unfetter.app)** — Mobile app for blocking distracting and explicit content while improving digital focus.  
+  **Tech:** Flutter, Dart, Firebase
 
-**Tech Stack**: Flutter, Firebase, PWA
+- **[Networth & Cashflow Tracker](https://play.google.com/store/apps/details?id=com.networthcashbook.app)** — Personal finance app for tracking net worth, income, expenses, and cash flow.  
+  **Tech:** Flutter, Dart, Firebase
 
----
+- **[Afriqueen Assistance App](https://play.google.com/store/apps/details?id=com.company.afriqueenstandard)** — Assistance and inquiry mobile application supporting users through messaging and assistance workflows; **10K+ downloads**.  
+  **Tech:** Flutter, Dart, Firebase, BLoC, Clean Architecture
 
-### 🤖 Automatic PowerPoint Generation using BERT
-**AI-Powered Presentation Generator**
-**Key Decision:** Focused on summarization quality over visual polish, as content clarity mattered more than slide aesthetics for target users.
-- Leveraged BERT Transformer model for content summarization
-- Automated slide generation with intelligent layout design
-- Integrated Python backend with Flutter frontend
-- Reduced presentation creation time by 70%
+- **[Agriculture Loksewa](https://agricultureloksewa-b109c.web.app/)** — Exam preparation platform for Agriculture Loksewa aspirants with learning resources and real-time content delivery; **10K+ downloads**.  
+  **Tech:** Flutter, Firebase, Firestore, PWA
 
-**Tech Stack**: Django, scikit learn, Pegasus Transformer model
+### App Store
+
+- **[MyNewEarth](https://apps.apple.com/cy/app/mynewearth/id6447554498)** — Production mobile application developed for iOS.  
+  **Tech:** Flutter, Dart
+
+- **[Afriqueen Dating Assistance App](https://apps.apple.com/us/app/afriqueen-assistance/id6813544449)** — Production mobile application developed as part of the Afriqueen platform.  
+  **Tech:** Flutter, Firebase, BLoC, Clean Architecture
 
 ---
 
-### 🔥 Human Detection with Thermal Imaging
-**Computer Vision & Deep Learning Project**
-- YOLO-based defect detection using thermal infrared images
-- Real-time human detection and localization
-- Optimized model for edge device deployment
-- Achieved 92% detection accuracy
+## 🌐 Websites & Web Applications
 
-**Tech Stack**: Pytorch, Python, YOLO, OpenCV, Flutter, Thermal Camera Hardware Combination
+- **[Afriqueen Assistance](https://afriqueen-assistance.fr/)** — Production landing website for the Afriqueen platform.  
+  **Tech:** Next.js, TypeScript, shadcn/ui, Vercel
 
----
+- **[Eagle Gym Center](https://eaglegymcenter.com/)** — Gym management system with member enrollment, attendance tracking, email notifications, and administrative workflows.  
+  **Tech:** Next.js, TypeScript, Firebase
 
-### 🍽️ [HamroMenu](https://github.com/jeevankoiri10/HamroMenu)
-**Location-Based Restaurant Discovery**
-- Android app for finding restaurant menus near user location
-- Google Maps API integration with custom markers
-- Firebase backend with geo-queries
-- User reviews and ratings system
+- **[San Trekking](https://www.santrekking.com/)** — Trekking website with booking functionality and international payment support.  
+  **Tech:** Next.js, TypeScript, Payment APIs
 
-**Tech Stack**: Flutter, Firebase, Google Maps API
+- **[KTM Academy](https://ktmacademy.com/)** — Education and learning management system with backend services and an administrative panel.  
+  **Tech:** Flutter, Flutter Web, Firebase, Firestore
 
----
+- **[Jeevan Koiri](https://jeevankoiri.com.np/)** — Personal portfolio website showcasing software engineering, AI, and research projects.  
+  **Tech:** Next.js, TypeScript, Vercel
 
-### 📈 ShareBazzar Alerts and Portfolio
-**FinTech Mobile Application**
-- Real-time stock price alerts and portfolio tracking
-- WebSocket integration for live data streaming
-- Local notifications for price triggers
-- Go-based backend for high performance
-
-**Tech Stack**: Flutter, Go, WebSockets, Firebase
+- **[NepalAddress](https://nepaladdress.com/)** — Web application focused on address/location UI and user interaction.  
+  **Tech:** Flutter Web, Dart
 
 ---
 
