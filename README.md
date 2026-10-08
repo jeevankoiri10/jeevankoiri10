@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevankoiri10&color=brightgreen)
 
-## Mobile & Full-Stack Developer | Flutter & AI Engineer
+## Full-Stack Developer
 **Shipped 3 Apps (5K+ Downloads) | 1K+ Subs @ KTM Academy | Data-Informed Product Builder**
 
 ---
@@ -15,7 +15,7 @@ I start by writing the problem down to remove ambiguity, research existing appro
 
 
 - 🚀 **Mobile Development**: Specialized in Flutter with 2 published apps and 5K+ downloads
-- 🔧 **Full-Stack Expertise**: Building end-to-end solutions with Flutter, Node.js, React, and Django
+- 🔧 **Full-Stack Expertise**: Building end-to-end solutions with Flutter, Typescript, React, and Django
 - 🤖 **AI Integration**: Implementing ML models in production apps using PyTorch and TensorFlow
 - 📊 **Data-Driven**: Leveraging analytics and user insights to build better products
 - 🎓 **Community Builder**: Running KTM Academy with 1K+ subscribers, sharing tech knowledge
@@ -33,8 +33,8 @@ I start by writing the problem down to remove ambiguity, research existing appro
 
 ## Tech Stack
 **Mobile:** Flutter (BLoC, Provider), Firebase  
-**Backend:** Node.js,Express , Django  
-**Frontend:** React, HTML/CSS/JS  
+**Backend:** Node.js, Express, Typescript, Django  
+**Frontend:** React, NextJS, Shadcn, HTML/CSS/JS  
 **AI/ML:** PyTorch, YOLO, Transformers, OpenCV  
 **Data:** MongoDB, Power BI  
 **Infra:** Docker, Firebase, AWS (basic data pipelines)
