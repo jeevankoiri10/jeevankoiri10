@@ -28,8 +28,8 @@ I start by writing the problem down to remove ambiguity, research existing appro
 />
 
 ## Tech Stack
-**Mobile:** Flutter (BLoC, Provider, Riverpod, feature based clean architecture), Firebase, Supabase  
-**Backend:** Django, Node.js, Express, Typescript 
+**Mobile:** Flutter (BLoC, Provider, Riverpod, feature-based clean architecture), Firebase, Supabase  
+**Backend:** Django, Node.js, Express, TypeScript 
 **Frontend:** React, NextJS, Shadcn, HTML/CSS/JS 
 **AI/ML:** PyTorch, YOLO, Transformers, OpenCV
 **Data:** MongoDB, Power BI
@@ -39,7 +39,7 @@ I start by writing the problem down to remove ambiguity, research existing appro
 - **Version Control**: Git, GitHub
 - **DevOps**: Vercel, CI/CD pipelines
 - **Methodologies**: Agile/Scrum, Test-Driven Development
-- **API Development**: REST, JWT Authentication
+- **API Development**: REST API, JWT Authentication
 
 ---
 
